@@ -1,0 +1,18 @@
+[
+  { "slot": "section-about-hero", "keyword": "premium airport lounge dusk window", "orientation": "landscape" },
+  { "slot": "section-contact-hero", "keyword": "travel concierge desk warm lamp", "orientation": "landscape" },
+  { "slot": "section-services-hero", "keyword": "boarding pass passport visa stamps", "orientation": "landscape" },
+  { "slot": "section-cta", "keyword": "airplane wing sunset dusk clouds", "orientation": "landscape" },
+  { "slot": "og-image", "keyword": "luxury travel suitcase airport terminal", "orientation": "landscape", "w": 1200, "h": 630 },
+  { "slot": "service-flight-bookings", "keyword": "airplane boarding pass runway warm", "orientation": "landscape" },
+  { "slot": "service-visa-assistance", "keyword": "passport stamps consular embassy documents", "orientation": "landscape" },
+  { "slot": "service-holiday-packages", "keyword": "luxury resort infinity pool dusk", "orientation": "landscape" },
+  { "slot": "service-airport-transfers", "keyword": "black car airport arrival warm night", "orientation": "landscape" },
+  { "slot": "section-work-1", "keyword": "dubai skyline sunset warm luxury", "orientation": "landscape" },
+  { "slot": "section-work-2", "keyword": "london heathrow terminal night", "orientation": "landscape" },
+  { "slot": "section-work-3", "keyword": "maldives overwater villa sunset", "orientation": "landscape" },
+  { "slot": "team-founder", "keyword": "professional portrait concierge warm lit", "orientation": "portrait" },
+  { "slot": "team-consular", "keyword": "professional portrait woman office warm", "orientation": "portrait" },
+  { "slot": "team-nightshift", "keyword": "professional portrait man desk night", "orientation": "portrait" },
+  { "slot": "team-concierge", "keyword": "professional portrait travel agent warm", "orientation": "portrait" }
+]

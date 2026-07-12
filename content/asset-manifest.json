@@ -1,0 +1,26 @@
+{
+  "bucket": "site-assets",
+  "projectId": "70f21da9-bfee-4e72-9b09-b8d67d7d1443",
+  "ref": "",
+  "images": {
+    "section-contact-hero": "https://images.unsplash.com/photo-1652161854022-91f94b974d73?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw2fHx0cmF2ZWwlMjBjb25jaWVyZ2UlMjBkZXNrJTIwd2FybSUyMGxhbXB8ZW58MXwwfHx8MTc4MzgzOTQzNHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-about-hero": "https://images.unsplash.com/photo-1699810917663-2341cd65afee?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw5fHxwcmVtaXVtJTIwYWlycG9ydCUyMGxvdW5nZSUyMGR1c2slMjB3aW5kb3d8ZW58MXwwfHx8MTc4Mzg0ODQ3OHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "og-image": "https://images.unsplash.com/photo-1563810179081-0da617398af4?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjB0cmF2ZWwlMjBzdWl0Y2FzZSUyMGFpcnBvcnQlMjB0ZXJtaW5hbHxlbnwxfDB8fHwxNzgzODQ4NDc4fDA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&q=80&auto=format",
+    "section-cta": "https://images.unsplash.com/photo-1539612793508-4539a972242b?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxhaXJwbGFuZSUyMHdpbmclMjBzdW5zZXQlMjBkdXNrJTIwY2xvdWRzfGVufDF8MHx8fDE3ODM4NDg0Nzh8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-services-hero": "https://images.unsplash.com/photo-1581553672347-95d9444c0d2c?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw0fHxib2FyZGluZyUyMHBhc3MlMjBwYXNzcG9ydCUyMHZpc2ElMjBzdGFtcHN8ZW58MXwwfHx8MTc4Mzg0ODQ3OHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-holiday-packages": "https://images.unsplash.com/photo-1772064901616-00264a6c4104?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw5fHxsdXh1cnklMjByZXNvcnQlMjBpbmZpbml0eSUyMHBvb2wlMjBkdXNrfGVufDF8MHx8fDE3ODM4NDg0Nzl8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-airport-transfers": "https://images.unsplash.com/photo-1633433490429-e9c2d1f6a94f?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxibGFjayUyMGNhciUyMGFpcnBvcnQlMjBhcnJpdmFsJTIwd2FybSUyMG5pZ2h0fGVufDF8MHx8fDE3ODM4NDg0Nzl8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-work-1": "https://images.unsplash.com/photo-1606138369267-ff17948d119c?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw2fHxkdWJhaSUyMHNreWxpbmUlMjBzdW5zZXQlMjB3YXJtJTIwbHV4dXJ5fGVufDF8MHx8fDE3ODM4NDg0Nzl8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-flight-bookings": "https://images.unsplash.com/photo-1698367503940-c093a450ac6d?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw4fHxhaXJwbGFuZSUyMGJvYXJkaW5nJTIwcGFzcyUyMHJ1bndheSUyMHdhcm18ZW58MXwwfHx8MTc4Mzg0ODQ3OXww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-work-2": "https://images.unsplash.com/photo-1715206582615-a178e53878ee?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxsb25kb24lMjBoZWF0aHJvdyUyMHRlcm1pbmFsJTIwbmlnaHR8ZW58MXwwfHx8MTc4Mzg0ODQ4MHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "team-consular": "https://images.unsplash.com/photo-1581065178026-390bc4e78dad?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw4fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMHdvbWFuJTIwb2ZmaWNlJTIwd2FybXxlbnwxfDF8fHwxNzgzODQ4NDgwfDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "team-concierge": "https://images.unsplash.com/photo-1765813136005-a8ce50e31721?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMHRyYXZlbCUyMGFnZW50JTIwd2FybXxlbnwxfDF8fHwxNzgzODQ4NDgwfDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "scene-1-end": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/70f21da9-bfee-4e72-9b09-b8d67d7d1443/images/scene-1-end.png",
+    "scene-1-start": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/70f21da9-bfee-4e72-9b09-b8d67d7d1443/images/scene-1-start.png"
+  },
+  "videos": {
+    "scene-1": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/70f21da9-bfee-4e72-9b09-b8d67d7d1443/videos/scene-1.mp4"
+  },
+  "frames": {},
+  "updatedAt": "2026-07-12T09:29:46.138Z"
+}
